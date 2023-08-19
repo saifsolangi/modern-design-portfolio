@@ -19,10 +19,10 @@ function Main() {
                         />
                     </h1>
                     <div className='text-white flex justify-center items-center gap-2 py-3'>
-                        <FaTwitter size={20} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
-                        <FaFacebook size={20} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
-                        <FaInstagram size={20} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
-                        <FaYoutube size={20} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
+                        <FaTwitter size={30} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
+                        <FaFacebook size={30} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
+                        <FaInstagram size={30} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
+                        <FaYoutube size={30} className='cursor-pointer hover:scale-110 ease-in-out duration-300' />
                     </div>
 
                 </div>
